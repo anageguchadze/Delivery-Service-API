@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-AUTH_YSER_MODEL = 'delivery.CustomUser'
+AUTH_USER_MODEL = 'delivery.CustomUser'
 
 # Application definition
 
